@@ -21,8 +21,8 @@
 <img title="node" height="30" src="resources/node-js.png">
 <img title="Express" height="30" src="resources/express.png">&nbsp;&nbsp;
 <img title="MySQL" height="30" src="resources/sql.png">&nbsp;&nbsp;
-<img title="React" height="30" src="resources/react.png">
-<img title="MongoDb" height="40" src="resources/mongodb_logo.png">
+<img title="React" height="30" src="resources/react.png">&nbsp;&nbsp;
+<img title="MongoDb" height="40" src="resources/mongodb_logo.png">&nbsp;&nbsp;
 <img title="Firebase" height="30" src="resources/firebase.png">
 
 ---
