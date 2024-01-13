@@ -14,7 +14,16 @@
 ---
 
 ### Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<!--![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)-->
+ <img title="CSS" height="30" src="resources/css.png"> <img title="Java" height="40" src="resources/Java.png">
+<img title="Python" height="30" src="resources/python.png">&nbsp;&nbsp;
+<img title="Javascript" height="30" src="resources/javascript.png">
+<img title="node" height="30" src="resources/node-js.png">
+<img title="Express" height="30" src="resources/express.png">&nbsp;&nbsp;
+<img title="MySQL" height="30" src="resources/sql.png">&nbsp;&nbsp;
+<img title="React" height="30" src="resources/react.png">
+<img title="MongoDb" height="40" src="resources/mongodb_logo.png">
+<img title="Firebase" height="30" src="resources/firebase.png">
 
 ---
 
