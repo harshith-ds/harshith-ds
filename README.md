@@ -30,7 +30,7 @@
 ### GitHub Stats
 
 <!--![](https://github-readme-stats.vercel.app/api?username=harshith-ds&include_all_commits=true&count_private=true&title_color=#85C1E9&icon_color=09E3FF&text_color=AED6F1&bg_color=ffffff) <br><br> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshith-ds&theme=blue-grey&hide_border=false&count_private=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshith-ds&theme=transparent&hide_border=false&count_private=true&include_all_commits=true)
 <!--
 **harshith-ds/harshith-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
