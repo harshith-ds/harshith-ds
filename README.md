@@ -9,7 +9,7 @@
 ### About Me
 - I'm Full Stack Developer, pursuing B.E in Information Science and Technology at BNMIT
 - I constantly strive to stay at the forefront of emerging technologies in the market. 
-- Contact Me [![**LinkedIn**](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-sd/)
+- Let's Connect [![**LinkedIn**](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-sd/)
 
 ---
 
